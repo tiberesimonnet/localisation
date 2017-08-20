@@ -26,4 +26,15 @@
         tools:ignore="HardcodedText,MissingConstraints"
         tools:layout_editor_absoluteX="110dp"
         tools:layout_editor_absoluteY="5dp" />
+        
+     <ListView
+        android:id="@+id/Liste admin"
+        android:layout_width="343dp"
+        android:layout_height="417dp"
+        android:background="@color/colorPrimary"
+        android:cacheColorHint="@color/colorPrimary"
+        android:scrollbars="horizontal|vertical"
+        tools:layout_editor_absoluteX="21dp"
+        tools:layout_editor_absoluteY="78dp"
+        tools:ignore="MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
