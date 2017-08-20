@@ -67,4 +67,12 @@
         tools:layout_editor_absoluteY="60dp"
         tools:ignore="ContentDescription,MissingConstraints" />
 
+  <com.google.android.gms.maps.MapView
+        android:id="@+id/map"
+        android:layout_width="232dp"
+        android:layout_height="189dp"
+        android:visibility="visible"
+        tools:layout_editor_absoluteX="64dp"
+        tools:layout_editor_absoluteY="172dp" />
+
 </android.support.constraint.ConstraintLayout>
